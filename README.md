@@ -1,16 +1,22 @@
 # Pixel Art Maker Project
+This is the final project for the Udacity Google Challenge Scholarship for Front-End Web Development. 
 
-## Table of Contents
+## Goal
+To build a single-page web app that allows users to draw piel art on a customizable canvas!
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+Students are given [starter code](https://github.com/udacity/project-pixel-art-maker-starter), including HTML and CSS, to build the application. JavaScript code is written that lets the user to create a grid of squares representing their design, and apply colors to those squares to create a digital masterpiece!
 
-## Instructions
+## Project Features
+Users should be able to:
 
-To get started, open `designs.js` and start building out the app's functionality.
+1. Dynamically set the size of the table as an N by M grid.
+2. Choose a color.
+3. Click a cell in the grid to fill that cell with the chosen color.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+The primary task is to implement the `makeGrid()` function, that dynamically creates a grid that the user can interact with.
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## Skills
+* Defining variables with `const` and `let`
+* Accessing the DOM using methods of the `document` object (encouraged to use jQuery)
+* Declaring functions and attaching them to DOM objects as event listeners
+* Writing nested loops and using loop variables
