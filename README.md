@@ -1,5 +1,6 @@
 # Pixel Art Maker Project
 [https://slothberr.github.io/pixel-art-maker/](https://slothberr.github.io/pixel-art-maker/)
+
 This is the final project for the Udacity Google Challenge Scholarship for Front-End Web Development. 
 
 ## Goal
