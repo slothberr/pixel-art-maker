@@ -1,7 +1,7 @@
 # Pixel Art Maker Project
-[https://slothberr.github.io/pixel-art-maker/](https://slothberr.github.io/pixel-art-maker/)
-
 This is the final project for the Udacity Google Challenge Scholarship for Front-End Web Development. 
+
+[https://slothberr.github.io/pixel-art-maker/](https://slothberr.github.io/pixel-art-maker/)
 
 ## Goal
 To build a single-page web app that allows users to draw pixel art on a customizable canvas!
