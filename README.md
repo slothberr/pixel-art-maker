@@ -2,7 +2,7 @@
 This is the final project for the Udacity Google Challenge Scholarship for Front-End Web Development. 
 
 ## Goal
-To build a single-page web app that allows users to draw piel art on a customizable canvas!
+To build a single-page web app that allows users to draw pixel art on a customizable canvas!
 
 Students are given [starter code](https://github.com/udacity/project-pixel-art-maker-starter), including HTML and CSS, to build the application. JavaScript code is written that lets the user to create a grid of squares representing their design, and apply colors to those squares to create a digital masterpiece!
 
